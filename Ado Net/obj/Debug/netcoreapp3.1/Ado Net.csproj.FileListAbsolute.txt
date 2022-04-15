@@ -1,0 +1,21 @@
+E:\homework\Ado Net\Ado Net\bin\Debug\netcoreapp3.1\Ado Net.exe
+E:\homework\Ado Net\Ado Net\bin\Debug\netcoreapp3.1\Ado Net.deps.json
+E:\homework\Ado Net\Ado Net\bin\Debug\netcoreapp3.1\Ado Net.runtimeconfig.json
+E:\homework\Ado Net\Ado Net\bin\Debug\netcoreapp3.1\Ado Net.runtimeconfig.dev.json
+E:\homework\Ado Net\Ado Net\bin\Debug\netcoreapp3.1\Ado Net.dll
+E:\homework\Ado Net\Ado Net\bin\Debug\netcoreapp3.1\Ado Net.pdb
+E:\homework\Ado Net\Ado Net\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\homework\Ado Net\Ado Net\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\homework\Ado Net\Ado Net\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\homework\Ado Net\Ado Net\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\homework\Ado Net\Ado Net\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\homework\Ado Net\Ado Net\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\homework\Ado Net\Ado Net\obj\Debug\netcoreapp3.1\Ado Net.csproj.AssemblyReference.cache
+E:\homework\Ado Net\Ado Net\obj\Debug\netcoreapp3.1\Ado Net.GeneratedMSBuildEditorConfig.editorconfig
+E:\homework\Ado Net\Ado Net\obj\Debug\netcoreapp3.1\Ado Net.AssemblyInfoInputs.cache
+E:\homework\Ado Net\Ado Net\obj\Debug\netcoreapp3.1\Ado Net.AssemblyInfo.cs
+E:\homework\Ado Net\Ado Net\obj\Debug\netcoreapp3.1\Ado Net.csproj.CoreCompileInputs.cache
+E:\homework\Ado Net\Ado Net\obj\Debug\netcoreapp3.1\Ado Net.csproj.CopyComplete
+E:\homework\Ado Net\Ado Net\obj\Debug\netcoreapp3.1\Ado Net.dll
+E:\homework\Ado Net\Ado Net\obj\Debug\netcoreapp3.1\Ado Net.pdb
+E:\homework\Ado Net\Ado Net\obj\Debug\netcoreapp3.1\Ado Net.genruntimeconfig.cache
